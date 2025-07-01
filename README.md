@@ -1,48 +1,36 @@
 # 📊 Student Performance Prediction
 
-This project predicts student academic performance using **Machine Learning** techniques, visualized through **Seaborn** and deployed using **Streamlit**. It analyzes key factors such as study hours, attendance, sleep duration, and diet quality to provide insights and predictions.
+🔗 **[👉 Try the Live App](https://student-performance-prediction-app.streamlit.app/)**
+
+This project predicts student academic performance using **Machine Learning**, visualized with **Seaborn** and deployed using **Streamlit**. It analyzes factors like study hours, attendance, sleep duration, and diet quality to forecast a student's performance score.
 
 ---
 
 ## 🚀 Project Highlights
 
 - 📈 Predict performance scores based on lifestyle & academic inputs
-- 📊 Visualize trends using **Seaborn**
+- 📊 Visualize data trends using **Seaborn**
 - 🧠 Train models using **Linear, Ridge, and Lasso Regression**
-- 🌐 Interactive web app with **Streamlit**
+- 🌐 Live interactive web app hosted on **Streamlit**
 
 ---
 
-## 🎯 Objectives
+## 🌐 Live Demo
 
-- Identify factors influencing student performance  
-- Use regression models to make accurate predictions  
-- Provide an interactive interface for real-time prediction
+Check out the deployed app here:  
+👉 [https://student-performance-prediction-app.streamlit.app/](https://student-performance-prediction-app.streamlit.app/)
 
 ---
 
-## 📁 Features Used
+## 📁 Dataset Features
 
 - `study_hours_per_day`
 - `attendance_percentage`
 - `sleep_hours`
 - `diet_quality` (encoded: Poor, Fair, Good)
 
----
+...
 
-## 🛠️ Tech Stack
+## 📄 License
 
-- **Python 3.x**
-- **Pandas, NumPy** – data handling  
-- **Seaborn, Matplotlib** – visualization  
-- **Scikit-learn** – ML models & metrics  
-- **Streamlit** – web app interface
-
----
-
-## 🔧 Installation
-
-```bash
-git clone https://github.com/NithishKannanM/Student-Performance-Prediction---app.git
-cd student-performance-prediction
-pip install -r requirements.txt
+MIT License – see the [LICENSE](LICENSE) file for details.
